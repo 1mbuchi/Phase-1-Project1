@@ -5,7 +5,7 @@ body {
 
 background-image: url(https://i.pinimg.com/564x/09/8f/be/098fbe40a8db0ab7c47a0c62986fdc74.jpg);
 }
-
+/*heading styling*/
 header {
 	background-color: #333;
 	color: #fff;
@@ -13,4 +13,20 @@ header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+}
+/*navigation bar styling*/
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	margin-left: 20px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
 }
