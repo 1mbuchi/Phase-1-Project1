@@ -18,6 +18,10 @@
  - Open it up on vscode or your preffered place
  - Open the index.html file and go live
  - Click your desired movie and it will display the details
+ # Software benefits 
+ -Its an easy i fast way to obtain ones desired food
+ -This programme reduces human contact thus keepijng  both parties at restaurants safe
+ -Simple website .it acn easily be accessed by anyone 
  # FILE STRUCTURE 
 - Index.html: The main HTML file that displays the foods.
 - style.css: The CSS file that defines the styles and layout of the application.
