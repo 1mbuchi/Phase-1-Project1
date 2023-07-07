@@ -1,0 +1,84 @@
+{
+    "menu": {
+      "Featured Items": [
+        {
+          "name": "Garlic Bread",
+          "description": "Toasted ciabatta bread with garlic butter.",
+          "price": 4.99,
+          "image": "https://images.app.goo.gl/ihFUWH5YvaA5CtR98"
+        },
+        {
+          "name": "Caprese Salad",
+          "description": "Fresh mozzarella, tomatoes, and basil with balsamic glaze.",
+          "price": 7.99,
+          "image": "https://images.app.goo.gl/R7iUuyhNk47wmVPq7"
+        },
+        {
+          "name": "Fried Calamari",
+          "description": "Lightly breaded and fried, served with marinara sauce.",
+          "price": 9.99,
+          "image": "https://images.app.goo.gl/zdZhmqM6GxRPyiiv6"
+        }
+      ],
+      "Main Dishes": [
+        {
+          "name": "Spaghetti and Meatballs",
+          "description": "Classic spaghetti with homemade meatballs in marinara sauce.",
+          "price": 12.99,
+          "image": "https://images.app.goo.gl/3EQBGst9nRCuCCDR7"
+        },
+        {
+          "name": "Chicken Parmesan",
+          "description": "Breaded chicken breast with marinara sauce and melted mozzarella.",
+          "price": 14.99,
+          "image": "https://images.app.goo.gl/iUGZZC58rrgnDvnX9"
+        },
+        {
+          "name": "Grilled Salmon",
+          "description": "Fresh salmon grilled to perfection, served with seasonal vegetables.",
+          "price": 16.99,
+          "image": "https://images.app.goo.gl/VtqyFe7q9EYkfTXC7"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Soda",
+          "description": "Coca-Cola, Diet Coke, Sprite, or Fanta.",
+          "price": 2.99,
+          "image": "https://images.app.goo.gl/DfB7XApzKoVWS5YM6"
+        },
+        {
+          "name": "Beer",
+          "description": "Domestic or imported.",
+          "price": 4.99,
+          "image": "https://images.app.goo.gl/9FCkBV2qgDSntoDPA"
+        },
+        {
+          "name": "Wine",
+          "description": "Red or white, by the glass or by the bottle.",
+          "price": 7.99,
+          "image": "https://images.app.goo.gl/ftRB4Tgh7H5YDa7m8"
+        }
+      ],
+      "desserts": [
+        {
+          "name": "Tiramisu",
+          "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+          "price": 6.99,
+          "image": "https://images.app.goo.gl/fLxcrbvGCXbvL1w1A"
+        },
+        {
+          "name": "Cannoli",
+          "description": "Crispy pastry tubes filled with sweetened ricotta cheese.",
+          "price": 5.99,
+          "image": "https://images.app.goo.gl/2TtVHci4HQUowng2A"
+        },
+        {
+          "name": "IceCream",
+          "description": "Creamy Italian ice cream in a variety of flavors.",
+          "price": 4.99,
+          "image": "https://images.app.goo.gl/baKvVoTvSXEexhVm9"
+        }
+      ]
+    }
+  }
