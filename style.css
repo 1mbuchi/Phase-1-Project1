@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+
+background-image: url(https://i.pinimg.com/564x/09/8f/be/098fbe40a8db0ab7c47a0c62986fdc74.jpg);
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
