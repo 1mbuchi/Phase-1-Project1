@@ -20,3 +20,52 @@ for (var i = 0; i < addToCartButtons.length; i++)
             description: "Lightly breaded and fried, served with marinara sauce.",
             price: 9.99,
         }];
+        //menu data fetched from json server 
+        var menu = [
+            {
+                name: "Spaghetti and Meatballs",
+                description: "Classic spaghetti with homemade meatballs in marinara sauce.",
+                price: 12.99,
+            },
+            {
+               name: "Chicken Parmesan",
+               description: "Breaded chicken breast with marinara sauce and melted mozzarella.",
+               price: 14.99,
+            },
+            {
+               name: "Grilled Salmon",
+               description: "Fresh salmon grilled to perfection, served with seasonal vegetables.",
+               price: 16.99,
+            },
+            {
+               name: "Soda",
+               description: "Coca-Cola, Diet Coke, Sprite, or Fanta.",
+               price: 2.99,
+            },
+            {
+               name: "Beer",
+               description: "Domestic or imported.",
+               price: 4.99,
+            },
+            {
+               name: "Wine",
+               description: "Red or white, by the glass or by the bottle.",
+               price: 7.99,
+            },
+            {
+              name: "Tiramisu",
+              description: "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+              price: 6.99,
+            },
+            {
+              name: "Cannoli",
+              description: "Crispy pastry tubes filled with sweetened ricotta cheese.",
+              price: 5.99,
+            },
+            {
+              name: "IceCream.",
+              description: "Creamy Italian ice cream in a variety of flavors.",
+              price: 4.99,
+            } 
+            //loop created
+          ];
