@@ -72,6 +72,6 @@ for (var i = 0; i < addToCartButtons.length; i++)
 
           for (var i = 0; i < menu.length; i++) {
         var menu= menu[i];
-        var menuItemHTML = '<li class="menu"><h3>' + menuItem.name + '</h3><p class="description">' + menuItem.description + '</p><p class="price">$' + menuItem.price + '</p></li>';
+        var menuHTML = '<li class="menu"><h3>' + menuItem.name + '</h3><p class="description">' + menuItem.description + '</p><p class="price">$' + menuItem.price + '</p></li>';
         document.getElementById('menu').innerHTML += menuItemHTML;
       }
