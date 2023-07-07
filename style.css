@@ -56,3 +56,15 @@ section h2 {
 	object-fit: contain;
 	margin-bottom: 10px;
 }
+button {
+	background-color: #333;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #666;
+}
