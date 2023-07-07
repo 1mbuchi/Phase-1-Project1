@@ -67,5 +67,11 @@ for (var i = 0; i < addToCartButtons.length; i++)
               description: "Creamy Italian ice cream in a variety of flavors.",
               price: 4.99,
             } 
-            //loop created
+            //loop created in js
           ];
+
+          for (var i = 0; i < menu.length; i++) {
+        var menu= menu[i];
+        var menuItemHTML = '<li class="menu"><h3>' + menuItem.name + '</h3><p class="description">' + menuItem.description + '</p><p class="price">$' + menuItem.price + '</p></li>';
+        document.getElementById('menu').innerHTML += menuItemHTML;
+      }
