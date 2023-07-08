@@ -1,8 +1,6 @@
 # Phase-1-Project1
 1st Project
-# WEEK-3-CODE-CHALLENGE
-3RD CHALLENGE
- # MOVIE BOOKING SYSTEM
+ # MUNCHIES RESTAURANT WEBSITE
  Restaurant virtual ordering system 
  # WEBSITE FEATURES
  - Available food
