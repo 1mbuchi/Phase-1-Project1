@@ -27,6 +27,8 @@
 - style.css: The CSS file that defines the styles and layout of the application.
 - index.js: The JavaScript file that contains the logic and functionality of the application.
 - db.json: A JSON file that contains the data used by the application.
+# MIT License
 
+Copyright (c) 2023 1mbuchi
 # AUTHOR 
 NATASHA IMBUCHI
