@@ -3,6 +3,20 @@ for (var i = 0; i < addToCartButtons.length; i++)
 	addToCartButtons[i].addEventListener("click", function() {
 		alert("Order!");
 	}); //button function
+//mouse function 
+mouseClick.addEventListener('click', function()
+/ Code to run when the user clicks
+});
+
+mouseDown.addEventListener('mousedown'
+function() {
+/ Code to run when the user presses the mouse button down
+});
+mouseUp.addEventListener('mouseup',
+function() {
+/ Code to run when the user releases the mouse up
+});
+
     //featured data fetched from js server 
     var featured = [
         {
