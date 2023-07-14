@@ -16,7 +16,19 @@ mouseUp.addEventListener('mouseup',
 function() {
 / Code to run when the user releases the mouse up
 });
-
+// keyboard functions 
+keyDown.addEventListener('keydown',
+function() {
+/ Code to run when the user presses a key
+keyUp.addEventListener'keyup',
+function() {
+// Code to run when the user releases a key
+});
+keyPress.addEventListener('keypress',
+function() {
+// Code to run when the user presses a key
+and it produces a character
+});
     //featured data fetched from js server 
     var featured = [
         {
